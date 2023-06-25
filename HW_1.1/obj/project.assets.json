@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1/HW_1.csproj",
+      "projectUniqueName": "/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.1/HW_1.csproj",
       "projectName": "HW_1",
-      "projectPath": "/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1/HW_1.csproj",
+      "projectPath": "/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.1/HW_1.csproj",
       "packagesPath": "/home/alexg/.nuget/packages/",
-      "outputPath": "/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1/obj/",
+      "outputPath": "/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alexg/.nuget/NuGet/NuGet.Config"
