@@ -1,0 +1,15 @@
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/bin/Debug/net7.0/HW_1.3
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/bin/Debug/net7.0/HW_1.3.deps.json
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/bin/Debug/net7.0/HW_1.3.runtimeconfig.json
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/bin/Debug/net7.0/HW_1.3.dll
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/bin/Debug/net7.0/HW_1.3.pdb
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/obj/Debug/net7.0/HW_1.3.csproj.AssemblyReference.cache
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/obj/Debug/net7.0/HW_1.3.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/obj/Debug/net7.0/HW_1.3.AssemblyInfoInputs.cache
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/obj/Debug/net7.0/HW_1.3.AssemblyInfo.cs
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/obj/Debug/net7.0/HW_1.3.csproj.CoreCompileInputs.cache
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/obj/Debug/net7.0/HW_1.3.dll
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/obj/Debug/net7.0/refint/HW_1.3.dll
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/obj/Debug/net7.0/HW_1.3.pdb
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/obj/Debug/net7.0/HW_1.3.genruntimeconfig.cache
+/home/alexg/Документы/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#/HW_1.3/obj/Debug/net7.0/ref/HW_1.3.dll
